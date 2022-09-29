@@ -1,0 +1,4 @@
+x = 500
+y = 600
+print(y-x)
+print("welcome to GitHub")
